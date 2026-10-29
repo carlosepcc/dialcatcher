@@ -1,0 +1,6 @@
+{
+  "name": "Dial Interceptor",
+  "description": "A developer tool to intercept, decode, and log outgoing CALL and DIAL intents, including USSD codes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
